@@ -1,2 +1,2 @@
 # Shaurya-Raizada
-manas taskphase linear regression
+manas taskphase
