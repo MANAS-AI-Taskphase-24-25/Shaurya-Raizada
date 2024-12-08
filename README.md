@@ -1,2 +1,0 @@
-# Shaurya-Raizada
-manas taskphase
